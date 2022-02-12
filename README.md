@@ -6,4 +6,10 @@ The goals of the project were the following:
 1) Identify the plays that contribute to better defence; defence is defined as an act that deters the ball handler from attempting a shot
 2) Rank players based on their defensive performance by using the defensive plays above. The main concept is that the more important a defensive play is, the better defender the player who plays that play is
 
+This project is broken down into the following parts:
+1) Data exploration and visualization
+2) Feature engineering and defensive play definition
+3) Model creation and player ranking
+
+
 
